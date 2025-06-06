@@ -52,8 +52,8 @@ You can change the query to scrape other product types.
 
 ## 📊 Output Sample
 ```makefile
-Title: Samsung Galaxy M14 5G
-Price: 13,999
+Title: Samsung Galaxy M35 5G
+Price: 18,499
 Link: https://www.amazon.in/...
 ```
 
