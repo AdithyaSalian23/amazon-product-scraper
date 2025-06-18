@@ -105,5 +105,5 @@ This project is for educational purposes only. Scraping websites without permiss
 
 ---
 
-## 🏁 License
-This project is licensed under the [MIT License]().
+## 📝 License
+This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
