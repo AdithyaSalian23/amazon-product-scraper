@@ -82,3 +82,26 @@ Link : https://www.amazon.in/...
 
 ## 🧰 Tech Stack
 
+| Tool             | Purpose                           |
+|------------------|-----------------------------------|
+| 🐍 **Python**     | Core programming language          |
+| ⚙️ **Selenium**   | Web automation and scraping        |
+| 🍜 **BeautifulSoup** | HTML parsing and data extraction |
+| 📊 **Pandas**     | Data manipulation and export       |
+
+---
+
+## 🧑‍💻 Author
+Adithya Salian
+💻 Passionate about web automation and data scraping.
+📬 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/adithyasalian/) or explore my other projects.
+
+---
+
+## 📌 Notes
+You can modify the search query in `project.py` to scrape other products.
+
+This project is for educational purposes only. Scraping websites without permission may violate their terms of service.
+
+---
+
